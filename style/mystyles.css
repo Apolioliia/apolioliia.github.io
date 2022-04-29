@@ -6,9 +6,6 @@ header{
     height: 600px;
     display: flex;
 }
-.menu{
-
-}
 .name-image{
     flex-direction: row;
     justify-content: space-between;
